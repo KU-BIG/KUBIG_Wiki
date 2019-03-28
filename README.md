@@ -7,7 +7,7 @@
 ### 1) GitHub Desktop
 - [GitHub Desktop 기본 설치 및 사용법](https://poppy-leni.tistory.com/entry/GitHub-DeskTop-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95?category=625632)
 
-### 2) Python / Jupyter Notebook
+### 2-1) Python / Jupyter Notebook
 
 - 파이썬은 최신버전보다는 버전 3.6.7이면 대부분 잘 돌아가요
 - 로컬에 설치하느냐, 아나콘다에 설치하느냐에 따라서 패키지를 설치하는 방법이 달라집니다. 저는 로컬을 추천해요
@@ -22,17 +22,34 @@
 - [Mac Python/Jupyter Notebook 설치](https://www.appsmint.com/2016/10/jupyteripython-notebook.html)  
 
 
-
-### 3) Package Install 
+### 2-2) Python Packages
 - pip보다는 pip3을 쓰는게 마음이 편해요   
 > pip3 install 필요한 패키지명  
+> pip3 install numpy  
+> pip3 install pandas  
+> pip3 install matplotlib  
+> pip3 install seaborn  
+> pip3 install sklearn  
 > pip3 install keras  
 > pip3 install torch  
-> pip3 install sklearn
+
 
 - [pip 사용법 (로컬)](https://www.bloger.kr/42)
 - [pip 사용법 (아나콘다)](https://nittaku.tistory.com/102)
 
+
+### 3-1) R, R Studio
+
+- [Windows R 설치](https://kkokkilkon.tistory.com/4?category=640116)  
+- [Windows R Studio 설치](https://kkokkilkon.tistory.com/5)
+
+### 3-2) R Packages
+
+- [R 패키지 설치](https://rfriend.tistory.com/7)
+
+### 4) 기타
+
+- [Pandas, Matplotlib, Numpy 10분만에 배우기](https://ourcstory.tistory.com/145)
 
 
 ## 2. 깃허브 가이드
