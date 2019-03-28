@@ -63,9 +63,10 @@
 - [파이썬 동적 크롤링 : Selenium](https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/)
 
 ## 4. 데이터셋 검색
-- [Google Dataset Search](https://toolbox.google.com/datasetsearch?fbclid=IwAR3QnkmmXsVY8zoGlz3t4HzmxcVSliDIruPSud7EnZoz7eUqGzrgXBeLNzc)  
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch?fbclid=IwAR3QnkmmXsVY8zoGlz3t4HzmxcVSliDIruPSud7EnZoz7eUqGzrgXBeLNzc) 
 - [Kaggle Datasets](https://www.kaggle.com/datasets)  
-- [KDnuggets Datasets](https://www.kdnuggets.com/datasets/index.html)
+- [KDnuggets Datasets](https://www.kdnuggets.com/datasets/index.html)  
+- [Datasets for Machine Learning](https://www.datasetlist.com/?fbclid=IwAR3Pc48OZU3eMRs-W8ai5lZkUnLHJlrUNrD2-RNltR_u8p5jjtit2gtQY0s)
 
 ## 5. 기타 듀토리얼
 
@@ -84,5 +85,7 @@
 - [딥러닝을 처음 시작하는 분들을 위해](https://www.whydsp.org/284)  
 - [쫄지말자 딥러닝](https://www.slideshare.net/modulabs/2-cnn-rnn?ref=http://hellogohn.com/post_one18)  
 - [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)  
+- [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)  
+- [모두를 위한 딥러닝 시즌 2 - PyTorch](https://deeplearningzerotoall.github.io/season2/lec_pytorch.html)  
 
 
