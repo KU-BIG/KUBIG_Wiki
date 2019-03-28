@@ -76,3 +76,13 @@
 - [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)  
 - [Numpy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)  
 
+## 6. 머신러닝 & 딥러닝 강의
+
+- 당장 활용할 수 있는 몇개만 찾아두었는데, 이외에도 검색해보시면 좋은 자료가 많습니다!
+
+- [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)  
+- [딥러닝을 처음 시작하는 분들을 위해](https://www.whydsp.org/284)  
+- [쫄지말자 딥러닝](https://www.slideshare.net/modulabs/2-cnn-rnn?ref=http://hellogohn.com/post_one18)  
+- [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)  
+
+
