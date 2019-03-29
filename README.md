@@ -89,5 +89,6 @@
 - [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다.](https://www.slideshare.net/yongho/ss-79607172)  
 - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)  
 - [모두를 위한 딥러닝 시즌 2 - PyTorch](https://deeplearningzerotoall.github.io/season2/lec_pytorch.html)  
+- [네이버 테크톡 (YouTube)](https://www.youtube.com/channel/UCNrehnUq7Il-J7HQxrzp7CA/videos)  
 
 
