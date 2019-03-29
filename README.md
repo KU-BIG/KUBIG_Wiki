@@ -76,6 +76,8 @@
 - [Scikit-learn Tutorial](https://scikit-learn.org/stable/tutorial/index.html)  
 - [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)  
 - [Numpy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)  
+- [캐글 초보자를 위한 10가지 팁](https://subinium.github.io/kaggle-tips/?fbclid=IwAR1pXxLM_7ztEwEndSXAXJVLn-aMFdfqL_Ru2zxnw1djfdrPMKLrrnG3A9c)  
+- [Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners?fbclid=IwAR0t1nPPQNWbrfIPDYtU3In3Q4AhU29M1bfpOeOvP4lXQD1liIR_Px04dZg)
 
 ## 6. 머신러닝 & 딥러닝 강의
 
