@@ -90,5 +90,6 @@
 - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)  
 - [모두를 위한 딥러닝 시즌 2 - PyTorch](https://deeplearningzerotoall.github.io/season2/lec_pytorch.html)  
 - [네이버 테크톡 (YouTube)](https://www.youtube.com/channel/UCNrehnUq7Il-J7HQxrzp7CA/videos)  
+- [cs231n : Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
 
 
