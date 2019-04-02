@@ -21,6 +21,7 @@
 
 - [Mac Python/Jupyter Notebook 설치](https://www.appsmint.com/2016/10/jupyteripython-notebook.html)  
 
+- [Windows/Mac Jupyter Lab 설치](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 
 ### 2-2) Python Packages
 - pip보다는 pip3을 쓰는게 마음이 편해요   
