@@ -6,7 +6,7 @@
 
 ## New to KUBIG?
 
-- [Beginner's Guide](https://github.com/KU-BIG/KUBIG_Wiki/blob/master/new_to_kubig/Beginner's_guide)
+- [Beginner's Guide](https://github.com/KU-BIG/KUBIG_Wiki/blob/master/new_to_kubig/Beginner's_guide.md)
 - [Amazon Web Service Setup Guide](https://github.com/KU-BIG/KUBIG_Wiki/blob/master/new_to_kubig/AWS_setup_guide)
 - [Docker Setup Guide](https://github.com/KU-BIG/KUBIG_Wiki/blob/master/new_to_kubig/Docker_setup_guide)
 - [Github Beginner's Guide](https://github.com/KU-BIG/KUBIG_Wiki/blob/master/new_to_kubig/Beginner's_guide)
