@@ -11,10 +11,12 @@
 - [Docker Setup Guide](https://github.com/KU-BIG/KUBIG_Wiki/blob/master/new_to_kubig/Docker_setup_guide)
 - [Github Beginner's Guide](https://github.com/KU-BIG/KUBIG_Wiki/blob/master/new_to_kubig/Beginner's_guide)
 - [Github Desktop Beginners' Guide](https://github.com/KU-BIG/KUBIG_Wiki/blob/master/new_to_kubig/github_desktop_simple_guide.pdf)
+- ...
 
 ## Personal
 
 - [Hyeonwoo Yoo](https://github.com/KU-BIG/KUBIG_Wiki/tree/master/personal/hyeonwoo_yoo)
+- ...
 
 # KUBIG_Staff 
 - For staff only
