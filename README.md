@@ -1,7 +1,7 @@
 # KUBIG_Wiki
 
-자유롭게 수정, 공유할 수 있는 위키입니다.
-현재는 .md 파일과 README.md 를 사용하고 있으나, 빠른 시일 내에 이 [가이드](https://github.com/TeamCrazyPerformance/tcpsite/wiki/시스템-기획)에 따라 레포 내의 Wiki를 사용하는 방식으로 변경할 예정입니다.
+자유롭게 수정, 공유할 수 있는 위키입니다.  
+현재는 .md 파일과 README.md, 디렉토리 구조를 사용하여 구현해놓았으나, 빠른 시일 내에 이 [가이드](https://github.com/TeamCrazyPerformance/tcpsite/wiki/시스템-기획)에 따라 레포 내의 Wiki를 사용하는 방식으로 변경할 예정입니다.
 
 - [위키 작성 가이드](https://github.com/TeamCrazyPerformance/tcpsite/wiki/시스템-기획)
 
